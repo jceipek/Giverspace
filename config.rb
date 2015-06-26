@@ -54,7 +54,7 @@ helpers do
   end
 end
 
-set :url_root, 'http://tetheron.com'
+set :url_root, 'http://giverspace.com'
 
 activate :search_engine_sitemap
 
