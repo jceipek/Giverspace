@@ -1,0 +1,87 @@
+title: Tetheron
+tagline: 2-6 player arcing arcade action
+developer: Giverspace
+location: Los Angeles, CA
+release_date:
+website: http://tetheron.com
+twitter: Tetheron
+contact: press@tetheron.com
+
+platforms:
+    - name: Windows
+    - name: OSX
+    #   link: http://www.tetheron.com
+    # - name: Steam
+    #   link: http://www.steampowered.com
+    # - name: Apple App Store
+    #   link: http://www.itunes.com
+
+prices:
+    # - currency: USD
+    #   price: ???
+    # - currency: EUR
+    #   price: ???
+    # - currency: CAD
+    #   price: ????
+    # - currency: GBP
+    #   price: ????
+
+description: >
+    In Tetheron, 2-6 players soar joyfully around a destructible arcade arena
+    by tethering and swinging from obstacles and each other. With its two-finger,
+    any-button controls, it's easy to learn but hard to master.
+
+
+    Do you have the reflexes, cunning, and determination to triumph in this
+    centripetal battle royale?
+history: >
+    Julian Ceipek and Patrick Quah first combined forces to make experimental
+    games in Richard Lemarchand's Avant Garde video games class at USC's IMGD.
+    Patrick was keen on simple, compelling arcade-style mechanics, Julian was
+    interested in minimalism and juiciness, and both wanted to make a balanced,
+    competitive game. The result: Tetheron.
+
+
+    They used a "playcentric" approach to game design, using rapid playtesting
+    and intensive iteration to improve and polish the game at every turn.
+
+
+    The team sorely lacked musical direction until they met Julie Buchanan,
+    a Berklee College of Music graduate. Julie composed a score and soundscape
+    that reacts to and complements the gameplay--she's the reason that players
+    don't claw out their ears while playing Tetheron!
+
+
+    Together, they continue to work hard on refining the Tetheron experience.
+
+features: >
+    - 2-6 player local multiplayer
+
+    - 2-finger any-button gameplay
+
+    - dynamic music and sound effects
+
+    - procedurally generated levels
+
+request_review_copy: false
+
+videos:
+    - name: Trailer
+      youtube: XN942oS38-8
+
+images:
+    - double_demise.png
+    - out_of_options.png
+    - swinging_competition.png
+
+
+credits:
+    - name: Julian Ceipek
+      role: Design & Development
+      website: https://jceipek.com
+    - name: Patrick Quah
+      role: Design & Community Management
+      website: https://patrickquah.carbonmade.com
+    - name: Julie Buchanan
+      role: Music & Sound Design
+      website: http://www.juliebuchananmusic.com

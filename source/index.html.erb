@@ -1,0 +1,35 @@
+---
+title: Giverspace
+priority: 1.0
+change_frequency: hourly
+---
+
+<% content_for :head do %>
+	<meta name='description' content="Giverspace creates universal interactives">
+
+	<meta name="og:site_name" content="Giverspace">
+	<meta name="og:url" content="http://giverspace.com/">
+	<meta name="og:image" content="http://giverspace.com/images/GiverspaceOpenGraph.png">
+	<meta name="og:title" content="Giverspace">
+<% end %>
+
+<div class="centerpiece">
+	<h1><%= image_tag("giverspace_logo.svg", 'alt'=>"Giverspace") %></h1>
+	<p class='tagline'>interactives worth sharing</p>
+
+	<div class='interactives'>
+		<a href="http://tetheron.com" alt="Tetheron">
+			<%= image_tag("TetheronTitleCardBig.png", 'alt'=>"Tetheron", 'class'=>"js-img-titlecard") %>
+			<%= image_tag("", 'width'=>'480px', 'height'=>'270px', 'alt'=>"Tetheron Animation", 'class'=>"img-loading js-img-loading", 'data-img'=>"images/Tetheron.gif",) %>
+		</a>
+	</div>
+
+	<div class='links'>
+		<%= link_to "Contact", "mailto:contact@giverspace.com" %>
+	</div>
+</div>
+
+
+<div class='footer'>
+	<p>&copy; Giverspace LLC, 2015</p>
+</div>
